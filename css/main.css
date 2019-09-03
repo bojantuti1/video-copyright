@@ -189,7 +189,7 @@ box-shadow: 0 30px 60px -12px rgba(50,50,93,.25), 0 18px 36px -18px rgba(0,0,0,.
 #section-one h2, #section-two h2, #section-three h2, #section-four h2, #section-five h2 {
   font-size: 40px;
 }
-#section-one .main-paragraph, #section-two .main-paragraph, #section-three  .main-paragraph{
+#section-one .main-paragraph, #section-two .main-paragraph, #section-three  .main-paragraph, #section-four  .main-paragraph{
 
   margin-bottom: 30px;
   font-size: 24px;
